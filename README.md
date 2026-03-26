@@ -1,5 +1,5 @@
 # TalvezsejaoMago
-#👋Hi, i'm Matheus Felippe de Andrade
+👋Hi, i'm Matheus Felippe de Andrade
 
 💻 Passionate developer exploring technology and building creative solutions.  
 🚀 Currently working with Web Development, APIs, and IoT projects.
